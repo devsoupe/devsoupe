@@ -1,4 +1,5 @@
-### DevSoupe <img src="https://cdn-images-1.medium.com/fit/c/64/64/1*PIB3U7P6mYJ8q3wosfwwog.png">
+<img src="https://cdn-images-1.medium.com/fit/c/64/64/1*PIB3U7P6mYJ8q3wosfwwog.png"> 
+### DevSoupe
 
 <!--
 **devsoupe/devsoupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
