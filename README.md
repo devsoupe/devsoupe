@@ -7,7 +7,6 @@
   <a href="mailto:luvyum4e@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luvyum4e@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<br />
 
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Hello world">
 
@@ -16,6 +15,8 @@
 Hi there! I'm Seth. mobile app engineer using Android. 🚀<br>
 Sometimes I develop cross-platforms Flutter, but prefer native. 😙<br>
 Beside's programming, I enjoy YouTube's natural science channel. 📺
+
+<br />
 
 **Languages and Tools:**  
 
