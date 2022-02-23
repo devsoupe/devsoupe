@@ -7,12 +7,12 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android. 🚀<br/>
-  Sometimes I develop cross-platforms like Flutter, but prefer native. 😙<br/><br/>
+  Sometimes I develop cross-platforms Flutter, but prefer native. 😙<br/><br/>
 <!--   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/> -->
 </p>
 
-#### Platforms & Languages
+<!-- #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> -->
@@ -34,4 +34,4 @@
 <!--   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-</p>
+</p> -->
