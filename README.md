@@ -9,12 +9,12 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/resources/banner.png" alt="Hello world">
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Hello world">
 
 ## About me
 
 Hi there! I'm Seth. mobile app engineer using Android. 🚀<br>
-Sometimes I develop cross-platforms Flutter, but prefer native. 😙
+Sometimes I develop cross-platforms Flutter, but prefer native. 😙<br>
 Beside's programming, I enjoy YouTube's natural science channel. 📺
 
 **Languages and Tools:**  
