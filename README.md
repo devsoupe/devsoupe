@@ -12,9 +12,7 @@
 
 ## About me
 
-Hi there! I'm mobile app engineer using Android. 🚀<br>
-Sometimes I develop cross-platforms Flutter, but prefer native. 😙<br>
-Beside's programming, I enjoy YouTube's natural science channel. 📺
+Hi there! I'm mobile app engineer using Android. 🚀 Sometimes I develop cross-platforms Flutter, but prefer native. 😙<br> Beside's programming, I enjoy YouTube's natural science channel. 📺
 
 <br />
 
