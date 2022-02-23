@@ -1,9 +1,13 @@
 ### Hey 👋, I'm [Seth!](https://devsoupe.github.io/) 
 
+<br />
+
 <p>
   <a href="https://medium.com/@devsoupe" target="_blank"><img src="http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium"/></a>
   <a href="mailto:luvyum4e@gmail.com" target="_blank"><img src="https://img.shields.io/badge/luvyum4e@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<br />
 
 <img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/resources/banner.png" alt="Hello world">
 
