@@ -7,12 +7,11 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android. 🚀<br/>
-<!--   Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  Sometimes I develop cross-platforms like Flutter, but prefer native. 😙<br/><br/>
+<!--   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/> -->
 </p>
 
-### 💪 Skills
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
