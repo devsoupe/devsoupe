@@ -9,7 +9,7 @@
 
 ## About me
 
-Hi there! I have mainly worked on Android development so far, and I have occasionally done iOS development as well. 🚀 Currently, I am shifting my focus to a wide range of areas such as Flutter, Spring backend, and AWS infrastructure development. 😙<br> Beside's programming, I enjoy watching science and space-related YouTube channels, and I also really like mysteries and horror stories. 📺
+Hi there! I have mainly worked on Android development so far, and I have occasionally done iOS development as well. 🚀<br> Currently, I am shifting my focus to a wide range of areas such as Flutter, Spring backend, and AWS infrastructure development. 😙<br> Beside's programming, I enjoy watching science and space-related YouTube channels, and I also really like mysteries and horror stories. 📺
 
 <br />
 
